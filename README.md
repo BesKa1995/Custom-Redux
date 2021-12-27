@@ -1,2 +1,2 @@
 # Custom-Redux
-practicing with redux to understand how does it work
+practicing with redux to understand how it works
